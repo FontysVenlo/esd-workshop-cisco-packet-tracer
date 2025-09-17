@@ -9,3 +9,13 @@ That includes:
 - Presentation (if applicable)
 - References
 - Docker (compose) file (if applicable)
+
+
+
+The worshop will be separated in two part we are going for Theroy and Practical
+
+# Theory
+
+# Practical
+
+https://www.researchgate.net/publication/371279785_Cisco_Packet_Tracer_Implementation_Building_and_Configuring_Networks
