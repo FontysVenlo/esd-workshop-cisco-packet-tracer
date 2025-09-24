@@ -1,6 +1,6 @@
 # Topics Found from research paper
 
-- Different network designs (Bus, Star, Ring)
+- Different network topologies (Bus, Star, Ring)
 - Routing Information Protocol (RIP)
 - Open Shortest Path First (OSPF) protocol
 - Dynamic Host Control Protocol (DHCP)
