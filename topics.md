@@ -4,7 +4,8 @@
 - Routing Information Protocol (RIP)
 - Open Shortest Path First (OSPF) protocol
 - Dynamic Host Control Protocol (DHCP)
-- Firewall configurations
+- Firewall configuration:
+  - This example also involves: ACLs and setting up NAT
 - VLAN (Virtual Local Area Network)
 - Analyze performance of various configurations and protocols (CISCO)
 - Connect two LANs using multi-router topology with static route
