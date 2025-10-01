@@ -16,6 +16,8 @@ The worshop will be separated in two part we are going for Theroy and Practical
 
 # Theory
 
+- [Researched topic ideas](topics.md)
+
 # Practical
 
 https://www.researchgate.net/publication/371279785_Cisco_Packet_Tracer_Implementation_Building_and_Configuring_Networks
