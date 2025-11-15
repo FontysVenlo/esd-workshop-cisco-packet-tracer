@@ -9,10 +9,10 @@
 
 | **Section** | **Topic** | **Duration** |
 |--------------|------------|---------------|
-| 1 | Introduction | 5–10 min |
-| 2 | Devices & Connections | 10 min |
-| 3 | Basic Networking Concepts | 10 min |
-| 4 | Network Services | 15 min |
+| 1 | Introduction | 15 min |
+| 2 | Devices & Connections | 15 min |
+| 3 | Basic Networking Concepts | 15 min |
+| 4 | Network Services | 35 min |
 | 5 | Routing & VLANs | 10 min |
 | 6 | Security & Performance | 10 min |
 | 7 | Final Simulation | 5–10 min |
@@ -29,7 +29,14 @@
 
 ### Topics Covered
 - Understanding network devices and communication.
+  - Questions to ask: 
+    - What network devices do you know
+    - What type of comunication means do you know
 - OSI model and data flow.
+  - Questions:
+    - Have you ever heard the OSI Model
+    - Do you know the different layers of the OSI model
+    - Which devices belong to which layer
 - Key protocols: **ARP**, **DHCP**, **DNS**, **RIP**.
 - VLANs, routing, and firewall setup.
 - Simulating and analyzing network performance.
@@ -88,7 +95,7 @@
 
 ## 4. Network Services
 
-### ⚡ DHCP (Dynamic Host Configuration Protocol)
+### DHCP (Dynamic Host Configuration Protocol)
 - Explain how DHCP assigns IP addresses automatically.
 - Configure a **DHCP Server**:
   - IP range, default gateway, DNS address.
